@@ -1,0 +1,13 @@
+article{
+    /* border: 1px solid ; */
+    width: 15vw;
+    margin: 10px 0;
+    box-shadow: -1px 10px 27px -5px rgba(167, 167, 167, 0.25);
+}
+article img{
+    width: 90%;
+}
+main section{
+    display: flex;
+    gap: 1em;
+}
